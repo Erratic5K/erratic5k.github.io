@@ -1,0 +1,15 @@
+Package: com.erratic5k.charcoalios8
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Erratic5K
+Depends: winterboard
+Filename: ./debs/com.erratic5k.charcoalios8_1.0_iphoneos-arm.deb
+Size: 261150
+MD5sum: 55f480ac53db9b81468e27d0cf248796
+SHA1: 04aeb0262efe2bc5ab501392023893c54722883f
+SHA256: d79525686fd4114c2891fc53e9dd08de84e83b9cb8faaa2f5bd14fcf63fbd5ff
+Section: Themes (Springboard)
+Description: A clean black theme
+Author: Erratic5K <erratic5k@gmail.com>
+Name: Charcoal iOS8
+
