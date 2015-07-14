@@ -1,7 +1,7 @@
 Package: com.erratic5k.charcoalios8
 Name: Charcoal iOS8
 Depends: winterboard
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Description: A clean black theme
 Maintainer: Erratic5K
