@@ -2,12 +2,12 @@ Package: com.erratic5k.charcoalios8
 Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Erratic5K
-Depends: winterboard
+Depends: winterboard, com.codethemed.iconbundles
 Filename: ./debs/com.erratic5k.charcoalios8_1.1_iphoneos-arm.deb
-Size: 281268
-MD5sum: c74a26d187ba8271b7b4ccf643cf18ff
-SHA1: e48ed1769f8d029ea106ecf9d1fd1ca3a3e254d0
-SHA256: 477f4d26f1e6eac74131783c12ed3ce7b1d460df243b781262a395de5601b665
+Size: 281282
+MD5sum: a5a0339bcd883b0b3c916af7cd8db17e
+SHA1: 156f9b807cd20bb048643cea6b6e346d34190853
+SHA256: 61cbc8b2fa90a5e32520c4837cec7208bc016bbf33694e62eed25fce202e2a23
 Section: Themes (Springboard)
 Description: A clean black theme
 Author: Erratic5K <erratic5k@gmail.com>
