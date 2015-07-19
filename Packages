@@ -5,9 +5,9 @@ Maintainer: Erratic5K
 Depends: winterboard, com.codethemed.iconbundles
 Filename: ./debs/com.erratic5k.charcoalios8_2.1_iphoneos-arm.deb
 Size: 685460
-MD5sum: cf4c3f585775c1e9d6bff9df0166b55a
-SHA1: 160f0dedee7d08c1a8005122497ffff0be0d5a82
-SHA256: 1d30229a52620ebcacac9ac96850f534e3fedd3258b5e2095d0564acbda9fe33
+MD5sum: f74c1d35539eac9f1ed0474cf765273a
+SHA1: 92dba6babe6a6414aa94c90a4d38dc1bc677873b
+SHA256: 637cdd8154c6495fe0174453a361d305bbdf1d79ec78cdb6c3e37df8cf0f010e
 Section: Themes (Springboard)
 Description: Plain Dark Theme
 Author: Erratic5K <erratic5k@gmail.com>
@@ -20,9 +20,9 @@ Maintainer: Erratic5K
 Depends: winterboard, com.codethemed.iconbundles
 Filename: ./debs/com.erratic5k.holoios8_1.0.7_iphoneos-arm.deb
 Size: 254854
-MD5sum: 532c25d2fbe98272f9edcca3d631c4e4
-SHA1: 280b1b2caeeac602a61bf63941d7f2a5c3bd820f
-SHA256: 1bf3b8a5e0d4af64c09365d3402b7513dc558e33856c898ed9e1e36fa05e10f6
+MD5sum: d2c335d4737a59325189afc0b90a0410
+SHA1: 7717bf0344b1a58b093c38669d76ed01ac8743fb
+SHA256: 2dbfe46bd84e9fe9ba7d4441816544e3e5a896666a5c8a8d62145fa9c2234f78
 Section: Themes (Springboard)
 Description: Plain transparent yet colorful theme
 Author: Erratic5K <erratic5k@gmail.com>
