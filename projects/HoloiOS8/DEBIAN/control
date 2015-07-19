@@ -1,7 +1,7 @@
 Package: com.erratic5k.holoios8
 Name: Holo iOS8
 Depends: winterboard, com.codethemed.iconbundles
-Version: 1.0.3
+Version: 1.0.4
 Architecture: iphoneos-arm
 Description: Plain transparent yet colorful theme
 Maintainer: Erratic5K
