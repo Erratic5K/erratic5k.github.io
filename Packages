@@ -5,24 +5,24 @@ Maintainer: Erratic5K
 Depends: winterboard, com.codethemed.iconbundles
 Filename: ./debs/com.erratic5k.charcoalios8_2.1_iphoneos-arm.deb
 Size: 685460
-MD5sum: 88bed81c9b1ab419ddc957c67d3692ee
-SHA1: 3426bcde424fd7b60064718110cc88152a4dd63a
-SHA256: bd1bbfd73d3043eaffbb7a556c3280337179f60ab1f65e8c2d3040b70ceb5604
+MD5sum: 619e5113296245d07920dc3ef06ed687
+SHA1: b45d32c9d2d13445d3e3c3e38c73d7bb4efa4d13
+SHA256: 381edd618af3b039dfd89ff86318a8c18c0d4cb2e5a8a633152752b19d9edfc9
 Section: Themes (Springboard)
 Description: Plain Dark Theme
 Author: Erratic5K <erratic5k@gmail.com>
 Name: Charcoal iOS8
 
 Package: com.erratic5k.holoios8
-Version: 1.0.5
+Version: 1.0.6
 Architecture: iphoneos-arm
 Maintainer: Erratic5K
 Depends: winterboard, com.codethemed.iconbundles
-Filename: ./debs/com.erratic5k.holoios8_1.0.5_iphoneos-arm.deb
-Size: 125386
-MD5sum: 5c6a0c340110e75981eaae536c5d7935
-SHA1: 077d4ca356abd127d51d6674ba597a0a935a419c
-SHA256: 18b4903a3ec42903002fb70d2236f4d679dea8dfabf1644c552e357f02a85bc3
+Filename: ./debs/com.erratic5k.holoios8_1.0.6_iphoneos-arm.deb
+Size: 124684
+MD5sum: 45109e18710e6d3f546b467571673f61
+SHA1: 4c398991999bd02e9c0469f24a84b0b907b811c0
+SHA256: fcbb0295bc35ebf50b2dd57ba00f1b8c327e1308843b1ac089201da4678e1948
 Section: Themes (Springboard)
 Description: Plain transparent yet colorful theme
 Author: Erratic5K <erratic5k@gmail.com>
