@@ -1,0 +1,10 @@
+Package: com.erratic5k.hologios8
+Name: HoloG iOS8
+Depends: winterboard, com.codethemed.iconbundles
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Plain transparent yet colorful theme
+Maintainer: Erratic5K
+Author: Erratic5K <erratic5k@gmail.com>
+Section: Themes (Springboard)
+
