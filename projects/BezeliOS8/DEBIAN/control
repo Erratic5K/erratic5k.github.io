@@ -1,7 +1,7 @@
 Package: com.erratic5k.bezelios8
 Name: Bezel iOS8
 Depends: winterboard, com.codethemed.iconbundles
-Version: 0.0,1
+Version: 0.0.1
 Architecture: iphoneos-arm
 Description: Transparent colorful theme
 Maintainer: Erratic5K
