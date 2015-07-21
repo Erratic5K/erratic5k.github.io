@@ -5,9 +5,9 @@ Maintainer: Erratic5K
 Depends: winterboard, com.codethemed.iconbundles
 Filename: ./debs/com.erratic5k.charcoalios8_2.1_iphoneos-arm.deb
 Size: 685460
-MD5sum: 7e9f1c5f6a4219265cfe47ed570858fe
-SHA1: 4302c2f3b78b65a32788a419651d2b0c24bf2dc3
-SHA256: 5049db794957a4ed961363ed7f9899c6b661da18eea104360a54c28b97d3347c
+MD5sum: dcc4e47da43d6227364dd6b009aaec64
+SHA1: 429a0144cb177e578b1ddabe3e5014361c486472
+SHA256: 86d8c7290e16e2a2b0b7b7582c1aa786a491bad959384ba90a3c67fdf70bf21d
 Section: Themes (Springboard)
 Description: Plain Dark Theme
 Author: Erratic5K <erratic5k@gmail.com>
@@ -20,24 +20,24 @@ Maintainer: Erratic5K
 Depends: winterboard, com.codethemed.iconbundles
 Filename: ./debs/com.erratic5k.hologios8_0.0.2_iphoneos-arm.deb
 Size: 420684
-MD5sum: 38e3799b77aef259c4189aacd37faf24
-SHA1: be90c33fa57bbf2cb76e77cafde7b2d6710d3c36
-SHA256: debe96e9327cb244e82652ea98f4974c9d6dc1cd8be3507f931e4ab34fcff032
+MD5sum: e053e829814c66e928151b56323f775d
+SHA1: f68d4f97d35f855fb0af1892a605f3faa77f01de
+SHA256: dd88e3e9610adcb08f82a6c876f5475e76cfb63c3026e28d98cf4a0d6fe0cc40
 Section: Themes (Springboard)
 Description: Plain transparent yet colorful theme
 Author: Erratic5K <erratic5k@gmail.com>
 Name: HoloG iOS8
 
 Package: com.erratic5k.holoios8
-Version: 1.0.8
+Version: 1.0.9
 Architecture: iphoneos-arm
 Maintainer: Erratic5K
 Depends: winterboard, com.codethemed.iconbundles
-Filename: ./debs/com.erratic5k.holoios8_1.0.8_iphoneos-arm.deb
-Size: 25766
-MD5sum: fdeaa0acf7437b52916fd0a0a78dcda0
-SHA1: 1b50c65e3240c3fa993a6e3a70e0e68ec86c7458
-SHA256: d494d4e396e02619ec45ee09cb4c17b72ba7a831ce730e40a086d00fe1b83cbb
+Filename: ./debs/com.erratic5k.holoios8_1.0.9_iphoneos-arm.deb
+Size: 259648
+MD5sum: ba2fb9d5236066c1618179b87e7e23ef
+SHA1: 6edbbd1964ff16c9e352597e7465a68d9d5ba9c7
+SHA256: 9742c7c42895c8fbdca79472959600dd947b7e4c22846aedcce454ccc9274a41
 Section: Themes (Springboard)
 Description: Plain transparent yet colorful theme
 Author: Erratic5K <erratic5k@gmail.com>

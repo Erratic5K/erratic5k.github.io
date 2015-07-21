@@ -5,11 +5,6 @@
 <plist version="1.0">
 
 <dict>
-
-  <key>CalendarIconDateStyle</key>
-
-  <string>font-family: HelveticaNeue-Light; font-size: 20px;padding-top:15;padding-right:3;padding-left:3;font-weight:500;color:#efefef;</string>
-
   <key>CalendarIconDayStyle</key>
 
   <string>font-family: HelveticaNeue-Light; font-size: 0px;padding-top:7;padding-right:3;padding-left:3;font-weight:500;color:#efefef;</string>
