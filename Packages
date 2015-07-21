@@ -1,13 +1,13 @@
 Package: com.erratic5k.bezelios8
-Version: 0.0.2
+Version: 0.0.3
 Architecture: iphoneos-arm
 Maintainer: Erratic5K
 Depends: winterboard, com.codethemed.iconbundles
-Filename: ./debs/com.erratic5k.bezelios8_0.0.2_iphoneos-arm.deb
+Filename: ./debs/com.erratic5k.bezelios8_0.0.3_iphoneos-arm.deb
 Size: 651546
-MD5sum: 8ec934f823163f391f3e376048ab11c1
-SHA1: 528675a29db98e1d5bb157350c36dd23a197bc79
-SHA256: 66fb0084875dd8b243c6b5ad3b6d67040218911b5b6dd0e9851beda944b51cc6
+MD5sum: 9123519b18040ebb14e551c119f44459
+SHA1: b0454517064b259e92cafe92da466b8c57fd706b
+SHA256: 115807cd457bb2c5edd0911c7e6c42e4dab920ddeec71297a98b7d683c034735
 Section: Themes (Springboard)
 Description: Transparent colorful theme
 Author: Erratic5K <erratic5k@gmail.com>
@@ -20,9 +20,9 @@ Maintainer: Erratic5K
 Depends: winterboard, com.codethemed.iconbundles
 Filename: ./debs/com.erratic5k.charcoalios8_2.1_iphoneos-arm.deb
 Size: 685462
-MD5sum: 0a64db0bbfcafbb7606faee3dfa59a66
-SHA1: 20d7e21eb79db703835f6c085d8212a063c46827
-SHA256: 1c333d727f72ae05a141c6a1e379a5b4c44cad329914086b6208f5a9ade847cc
+MD5sum: 4eb8fdabda80ecef1a458d85eafe275f
+SHA1: fee9ad704d60bfb3cf846e82aa84552e0cc4d755
+SHA256: f6d59caea5f10727270609552658792c924e8f7fd52a9c73ab63dbc65626f10b
 Section: Themes (Springboard)
 Description: Plain Dark Theme
 Author: Erratic5K <erratic5k@gmail.com>
