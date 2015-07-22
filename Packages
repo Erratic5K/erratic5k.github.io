@@ -1,18 +1,3 @@
-Package: com.erratic5k.bezelios8
-Version: 0.0.5
-Architecture: iphoneos-arm
-Maintainer: Erratic5K
-Depends: winterboard, com.codethemed.iconbundles
-Filename: ./debs/com.erratic5k.bezelios8_0.0.5_iphoneos-arm.deb
-Size: 1499584
-MD5sum: 166c91c07eaf95c8d6754ce849aabfec
-SHA1: 481c26c9cbef844069fa7508ac33f37a0e2a9c54
-SHA256: 027c0ad61e71bccc38326daf026dcc029a48b3fa248047f64cab70cff9a56467
-Section: Themes (Springboard)
-Description: Transparent colorful theme
-Author: Erratic5K <erratic5k@gmail.com>
-Name: Bezel iOS8
-
 Package: com.erratic5k.charcoalios8
 Version: 2.1
 Architecture: iphoneos-arm
@@ -20,9 +5,9 @@ Maintainer: Erratic5K
 Depends: winterboard, com.codethemed.iconbundles
 Filename: ./debs/com.erratic5k.charcoalios8_2.1_iphoneos-arm.deb
 Size: 685462
-MD5sum: b71611d4571389650f62d5b3b8db69cd
-SHA1: ee72d6e3b3acf778206304354bd1f946f6bfdaca
-SHA256: 1c8c8ea655647d8746c10b3f78990c0a130ff5b3263696184c0206171f87aff5
+MD5sum: 49b2481cfaa3708b2e7b9a32dea47b6e
+SHA1: 0082825a870858a62aa9e791166d056baf1c671a
+SHA256: 2f6af259a967bf0c3ddfc2192c905c30606cd12f699158ec42f973e19fcab715
 Section: Themes (Springboard)
 Description: Plain Dark Theme
 Author: Erratic5K <erratic5k@gmail.com>
