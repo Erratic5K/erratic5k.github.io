@@ -1,0 +1,10 @@
+Package: com.erratic5k.acaer
+Name: Acaer iOS8
+Depends: winterboard, com.codethemed.iconbundles
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Transparent colorful theme
+Maintainer: Erratic5K
+Author: Erratic5K <erratic5k@gmail.com>
+Section: Themes (Springboard)
+

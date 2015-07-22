@@ -1,3 +1,18 @@
+Package: com.erratic5k.acaer
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Erratic5K
+Depends: winterboard, com.codethemed.iconbundles
+Filename: ./debs/com.erratic5k.acaer_1.0_iphoneos-arm.deb
+Size: 1689178
+MD5sum: 0a0ffc212449e3070f3295d7c9e58eec
+SHA1: a51f2ba0ffb5fadf0940a02e936be92228ec7616
+SHA256: d05601112e1fcc7d4b7d18ac79e07b2f3347033611976c5de85e66da17e5d1bf
+Section: Themes (Springboard)
+Description: Transparent colorful theme
+Author: Erratic5K <erratic5k@gmail.com>
+Name: Acaer iOS8
+
 Package: com.erratic5k.charcoalios8
 Version: 2.1
 Architecture: iphoneos-arm
@@ -5,9 +20,9 @@ Maintainer: Erratic5K
 Depends: winterboard, com.codethemed.iconbundles
 Filename: ./debs/com.erratic5k.charcoalios8_2.1_iphoneos-arm.deb
 Size: 685462
-MD5sum: 49b2481cfaa3708b2e7b9a32dea47b6e
-SHA1: 0082825a870858a62aa9e791166d056baf1c671a
-SHA256: 2f6af259a967bf0c3ddfc2192c905c30606cd12f699158ec42f973e19fcab715
+MD5sum: c01aa7dd18c05b162f178524baff6817
+SHA1: 7cd5e57e3b7557510b6b2e79b306e698d01a199f
+SHA256: 8c6080fda5471b72de274a0847926737039b2c51979fc60d598b0495374246e6
 Section: Themes (Springboard)
 Description: Plain Dark Theme
 Author: Erratic5K <erratic5k@gmail.com>
