@@ -1,0 +1,9 @@
+Package: com.erratic5k.noname
+Name: noname iOS8
+Depends: winterboard, com.codethemed.iconbundles
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Transparent colorful theme
+Maintainer: Erratic5K
+Author: Erratic5K <erratic5k@gmail.com>
+Section: Themes (Springboard)
