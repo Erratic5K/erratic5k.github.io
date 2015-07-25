@@ -5,24 +5,24 @@ Maintainer: Erratic5K
 Depends: winterboard, com.codethemed.iconbundles
 Filename: ./debs/com.erratic5k.acaer_1.0_iphoneos-arm.deb
 Size: 1689178
-MD5sum: 8d30e532a63472b566780954c7188f12
-SHA1: 73d5122839516c76d4aebbb571d8c9a4ba174aa4
-SHA256: 93ba6b9917c4f2dd52618bdafce64e302023f171fa509f41c190442e7b037464
+MD5sum: 2d2184b5c1af5e23f21767c3b274d09c
+SHA1: 32078b24256c81c6fad7c3e1b58a1e079269680b
+SHA256: 348ada6f56ad3883a77c86304362ef782b660a420438f71239c53dbf050804d8
 Section: Themes (Springboard)
 Description: Transparent colorful theme
 Author: Erratic5K <erratic5k@gmail.com>
 Name: Acaer iOS8
 
 Package: com.erratic5k.bladient
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Erratic5K
 Depends: winterboard, com.codethemed.iconbundles
-Filename: ./debs/com.erratic5k.bladient_1.0_iphoneos-arm.deb
-Size: 705504
-MD5sum: ebced615b6fa341c2558bad8358f21b0
-SHA1: 1840978c9736b0e8f72dd33867c358dd3716ffc7
-SHA256: 0f7436abc248aac6e0abce8e6ee4635a8615aaca398443907e1533908b17b90f
+Filename: ./debs/com.erratic5k.bladient_1.1_iphoneos-arm.deb
+Size: 705508
+MD5sum: a3807a0dadff8d4919a512f4958631cc
+SHA1: 6d16a6e6ada7af5b1c8b957e44eb7707489f88ce
+SHA256: 44bc1e7fde7a643d440d84e3cc44de656419732ff56a4efa2b1f149ffa2bde33
 Section: Themes (Springboard)
 Description: Dark gradient background with colorful glyphs
 Author: Erratic5K <erratic5k@gmail.com>
@@ -35,9 +35,9 @@ Maintainer: Erratic5K
 Depends: winterboard, com.codethemed.iconbundles
 Filename: ./debs/com.erratic5k.charcoalios8_2.1_iphoneos-arm.deb
 Size: 685462
-MD5sum: 614bc63acba2c3f817e7852cafcaa32e
-SHA1: f6bae2abc95fa3ea8372528f200986a5ac17c859
-SHA256: d5abe73fce363c3efd5f9521edc2a699f717bc6500be6ae2ec7da83f796858c5
+MD5sum: 0dadc0d68a1069a634c49addc61d83d3
+SHA1: eb1457f18eb909f8fa5dcc0e6b817e6adcd37e73
+SHA256: 84ff0a2f30d0b562398f9e30f56acb323796e0c300d108de5c0108abfcfbe998
 Section: Themes (Springboard)
 Description: Plain Dark Theme
 Author: Erratic5K <erratic5k@gmail.com>
