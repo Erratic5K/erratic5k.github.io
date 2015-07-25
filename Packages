@@ -5,13 +5,28 @@ Maintainer: Erratic5K
 Depends: winterboard, com.codethemed.iconbundles
 Filename: ./debs/com.erratic5k.acaer_1.0_iphoneos-arm.deb
 Size: 1689178
-MD5sum: 384cb058d9bd063b8ea0667379084edf
-SHA1: bbf86af117e88dcdab50fdb1d2f85d8e37f5cc91
-SHA256: eb6893b58105b6776fdab99b9af310e0cfd8b1f879778d160578271cecc7da64
+MD5sum: 42b1173d552593ec05995bdf6b3aaa8e
+SHA1: 4d3a7a4d8e333515c40e3ec6d506ee24adbdf826
+SHA256: f1b539521f5733d89809e22a710f703511e840df0329d13fbab23cac4695d253
 Section: Themes (Springboard)
 Description: Transparent colorful theme
 Author: Erratic5K <erratic5k@gmail.com>
 Name: Acaer iOS8
+
+Package: com.erratic5k.bladient
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Erratic5K
+Depends: winterboard, com.codethemed.iconbundles
+Filename: ./debs/com.erratic5k.bladient_1.0_iphoneos-arm.deb
+Size: 705506
+MD5sum: 8927b37b5be859ef9c148dee4b32df04
+SHA1: c5f84bc7ad1daecd3bb2cdf16c29fc41112a0a07
+SHA256: e4558cb7d79b3b98f43c0de2fd2adbec85aca83d723377646fbde84ce8259de8
+Section: Themes (Springboard)
+Description: Dark gradient background with colorful glyphs
+Author: Erratic5K <erratic5k@gmail.com>
+Name: bladient iOS8
 
 Package: com.erratic5k.charcoalios8
 Version: 2.1
@@ -20,26 +35,11 @@ Maintainer: Erratic5K
 Depends: winterboard, com.codethemed.iconbundles
 Filename: ./debs/com.erratic5k.charcoalios8_2.1_iphoneos-arm.deb
 Size: 685462
-MD5sum: 2e80856d14c0a511bb745b7984818543
-SHA1: 11edc425d8fc474f5283b5cf4562bc4abba88960
-SHA256: 10de671e6dc93fefb243147b48cb60d47569e35e4f7f709424da7b8d9b5f7d4e
+MD5sum: a9a34d2db0c761739d1779ba646d8e61
+SHA1: 1d6b9da30e242d6980e66c8b8df0827bfbe6315b
+SHA256: 3bb9f0dac468cd89785894bf0626f33759ade07e330c3ba40473634264f27109
 Section: Themes (Springboard)
 Description: Plain Dark Theme
 Author: Erratic5K <erratic5k@gmail.com>
 Name: Charcoal iOS8
-
-Package: com.erratic5k.noname
-Version: 0.0.2
-Architecture: iphoneos-arm
-Maintainer: Erratic5K
-Depends: winterboard, com.codethemed.iconbundles
-Filename: ./debs/com.erratic5k.noname_0.0.2_iphoneos-arm.deb
-Size: 112100
-MD5sum: c060d7e3f3eb6bccdc866e449947f896
-SHA1: cf165daa0666db24a63c41bf5d23c820c4baca2b
-SHA256: 9e1528c588820b7e8a4b9adc4d34e0c95b9d23d63ae914260a2e714ae1b6db2f
-Section: Themes (Springboard)
-Description: Transparent colorful theme
-Author: Erratic5K <erratic5k@gmail.com>
-Name: noname iOS8
 

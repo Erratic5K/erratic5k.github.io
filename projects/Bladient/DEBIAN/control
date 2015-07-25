@@ -1,0 +1,10 @@
+Package: com.erratic5k.bladient
+Name: bladient iOS8
+Depends: winterboard, com.codethemed.iconbundles
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Dark gradient background with colorful glyphs
+Maintainer: Erratic5K
+Author: Erratic5K <erratic5k@gmail.com>
+Section: Themes (Springboard)
+
