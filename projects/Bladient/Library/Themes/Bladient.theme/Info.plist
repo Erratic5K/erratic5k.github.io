@@ -8,7 +8,7 @@
 
   <key>CalendarIconDateStyle</key>
 
-  <string>font-family: HelveticaNeue-Light; font-size: 30px;padding-top:7;padding-right:3;padding-left:3;font-weight:500;color:#000000;</string>
+  <string>font-family: HelveticaNeue-Light; font-size: 25px;padding-top:7;padding-right:3;padding-left:3;font-weight:500;color:#ffffff;</string>
 
   <key>CalendarIconDayStyle</key>
 
